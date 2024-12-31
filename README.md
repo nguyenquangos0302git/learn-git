@@ -1,2 +1,2 @@
 # learn-git
-repo
+Day la file sua truc tiep tren remote
